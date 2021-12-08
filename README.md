@@ -1,6 +1,6 @@
 # Fuzzy Inference
 
-This topic focuses on uncertainty associate with data due to noise, missing values, inconsistencies, or inaccuracies. Students learn to manage uncertainty by modeling knowledge using IF-THEN rules, rather than data.
+This topic focuses on uncertainty associated with data due to noise, missing values, inconsistencies, or inaccuracies. We learn to manage uncertainty by modeling knowledge using IF-THEN rules, rather than data.
 Objectives:
 
 ##### Construct fuzzy, rule-based models.
